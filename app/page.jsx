@@ -6,3 +6,4 @@ const Home = () => {
 }
 
 export default Home
+// Path: app\page.jsx
